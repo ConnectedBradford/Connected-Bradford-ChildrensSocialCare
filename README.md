@@ -22,8 +22,6 @@ individuals and their routinely collected clinical data.
 The dates relevant for the latest build are: 2017-04-03	to 2021-12-22
 
 
-
-
 The source tables are largely populated by fields with the tbl_ where there is a person and a start and end date, and cb_ where there is no identifiable person, these are typically lookups.
 
 ### Standard FDM tables included in this dataset*
@@ -39,11 +37,11 @@ cb_FactorLookup
 
 tbl_Assessments
 
-tbl_CPP
+tbl_CPP - Child Protection Plans
 
-tbl_CiC
+tbl_CiC - Children in Care Plan
 
-tbl_CiNP
+tbl_CiNP - Children in Need
 
 
 For more information please go to the docs folder. 
