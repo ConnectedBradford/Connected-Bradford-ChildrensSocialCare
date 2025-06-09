@@ -30,7 +30,7 @@ observation period.
 
 personLSOA.
 
-tmp persons distinct.
+persons distinct.
 
 ### The source data tables are: 
 
