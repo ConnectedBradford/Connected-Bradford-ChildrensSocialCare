@@ -2,11 +2,11 @@
   <img align="left" alt="ConnectedBradford" width="55px" src="https://github.com/ShoreRob1/Images/blob/main/CB%20logo%201.png?raw=true" />
 </a>
 
-#CB_FDM_ChildrensTrust
+CB_FDM_ChildrensTrust
 
 This dataset contains documentation for the ChildrensTrust data, sourced from Bradford Council and fully anonymised for use in the Connected Yorkshire project. It includes routinely collected clinical and social care data for 23,597 children, covering the period from 2004-01-29 to 2025-05-01.
 
-##Dataset Overview
+Dataset Overview
 
 FDM Name: CB_FDM_ChildrensTrust
 
@@ -16,7 +16,7 @@ Linkable: Yes, to other FDMs
 
 Anonymisation: Fully anonymised; no identifiable information (e.g., names, addresses)
 
-##Core FDM Tables
+Core FDM Tables
 
 person
 observation_period
